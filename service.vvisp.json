@@ -1,0 +1,14 @@
+{
+  "serviceName": "HealthChainUs",
+  "variables": {
+    "TOKEN_NAME": "HCUT",
+    "TOKEN_SYMBOL": "HCUT",
+    "TOKEN_DECIMAL": 18,
+    "TOKEN_INITIAL_SUPPLY": "10000000000000000000000000000"
+  },
+  "contracts": {
+    "MainToken": {
+      "path": "contracts/MainToken.sol"
+    }
+  }
+}
